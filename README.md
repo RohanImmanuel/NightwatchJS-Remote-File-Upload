@@ -2,6 +2,7 @@
 Custom NightwatchJS command for file upload using remote selenium grid
 
 ## Dependencies
+This works only for NightwatchJS v1.4+
 This project requires [adm-zip](https://www.npmjs.com/package/adm-zip)
 ```
 npm i adm-zip
